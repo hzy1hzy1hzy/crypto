@@ -1,0 +1,5 @@
+{
+  "name": "ECC Secure - 极简本地文件加密",
+  "description": "基于 ECC P-256 算法的高强度本地文件加密工具，保护您的隐私数据。",
+  "requestFramePermissions": []
+}

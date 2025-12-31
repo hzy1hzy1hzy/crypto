@@ -1,0 +1,28 @@
+
+{
+  "name": "ECC Secure 文件加密",
+  "short_name": "ECC Secure",
+  "description": "基于 ECC P-256 算法的本地文件加密工具",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3064/3064197.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["security", "utilities"],
+  "screenshots": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3064/3064197.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "label": "主界面"
+    }
+  ]
+}
